@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/mkdir.png</file>
+        <file>icons/size.png</file>
+        <file>icons/move.png</file>
+        <file>icons/mountDialog.png</file>
+        <file>icons/mount.png</file>
+    </qresource>
+</RCC>
